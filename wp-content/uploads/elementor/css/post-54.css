@@ -1,5 +1,5 @@
-.elementor-54 .elementor-element.elementor-element-269eabe > .elementor-container {max-width: 1141px;}
-.elementor-54 .elementor-element.elementor-element-269eabe {z-index: 5;}
+.elementor-54 .elementor-element.elementor-element-269eabe > .elementor-container {max-width: 1600px;}
+.elementor-54 .elementor-element.elementor-element-269eabe {overflow: hidden;z-index: 5;}
 .elementor-54 .elementor-element.elementor-element-9113d0f:not(.elementor-motion-effects-element-type-background) > .elementor-element-populated, .elementor-54 .elementor-element.elementor-element-9113d0f > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://mapplefix.com/wp-content/uploads/2020/05/above-black-band.png");background-repeat: no-repeat;background-size: 55% auto;}
 .elementor-54 .elementor-element.elementor-element-9113d0f > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin: 0px 0px 0px 0px;}
 .elementor-54 .elementor-element.elementor-element-9113d0f > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
@@ -11,7 +11,8 @@
 .elementor-54 .elementor-element.elementor-element-460b028.elementor-widget-heading .elementor-heading-title {color: #fff;}
 .elementor-54 .elementor-element.elementor-element-460b028 .elementor-heading-title {font-size: 15px;}
 .elementor-54 .elementor-element.elementor-element-460b028 > .elementor-widget-container {margin: -16px 4px 0px 7px;padding: 0px 0px 0px 0px;}
-.elementor-54 .elementor-element.elementor-element-5fde28f {margin-top: -161px;margin-bottom: 0px;z-index: 4;}
+.elementor-54 .elementor-element.elementor-element-5fde28f > .elementor-container {max-width: 1600px;}
+.elementor-54 .elementor-element.elementor-element-5fde28f {overflow: hidden;margin-top: -161px;margin-bottom: 0px;z-index: 4;}
 .elementor-54 .elementor-element.elementor-element-fcb7849:not(.elementor-motion-effects-element-type-background) > .elementor-element-populated, .elementor-54 .elementor-element.elementor-element-fcb7849 > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: rgba(0,0,0,.81);}
 .elementor-54 .elementor-element.elementor-element-fcb7849 > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
 .elementor-54 .elementor-element.elementor-element-fcb7849 > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
@@ -29,7 +30,7 @@
 .elementor-54 .elementor-element.elementor-element-72046de .elementor-divider-separator {width: 100%;}
 .elementor-54 .elementor-element.elementor-element-72046de .elementor-divider {padding-top: 15px;padding-bottom: 15px;}
 .elementor-54 .elementor-element.elementor-element-72046de .elementor-icon i, .elementor-54 .elementor-element.elementor-element-72046de .elementor-icon svg {transform: rotate(0deg);}
-.elementor-54 .elementor-element.elementor-element-5c615ae {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: -15%;margin-bottom: 0%;z-index: 4;}
+.elementor-54 .elementor-element.elementor-element-5c615ae {overflow: hidden;transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: -15%;margin-bottom: 0%;z-index: 4;}
 .elementor-54 .elementor-element.elementor-element-5c615ae > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-54 .elementor-element.elementor-element-897a355.elementor-column > .elementor-column-wrap > .elementor-widget-wrap {justify-content: center;}
 .elementor-54 .elementor-element.elementor-element-897a355 > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 100px;}
@@ -228,6 +229,7 @@ body.elementor-page-54:not(.elementor-motion-effects-element-type-background), b
 	.elementor-54 .elementor-element.elementor-element-21e2780 > .elementor-element-populated {margin: 0px 0px 0px -47px;}
 	.elementor-54 .elementor-element.elementor-element-1e84a72 .elementor-heading-title {font-size: 16px;}
 	.elementor-54 .elementor-element.elementor-element-1e84a72 > .elementor-widget-container {margin: 3px 0px 0px 0px;}
+	.elementor-54 .elementor-element.elementor-element-ed8009b {margin-top: 49px;margin-bottom: 0px;padding: 0px 0px 70px 0px;}
 	.elementor-54 .elementor-element.elementor-element-9986006 {width: 50%;}
 	.elementor-54 .elementor-element.elementor-element-9986006 > .elementor-element-populated {margin: 29px 0px -70px 0px;}
 	.elementor-54 .elementor-element.elementor-element-bb244da .elementor-icon {font-size: 32px;}
